@@ -40,3 +40,9 @@ a {
     color-scheme: dark;
   }
 }
+
+input, textarea, select {
+  color: #000;
+  background-color: #fff;
+  -webkit-text-fill-color: #000;
+}
